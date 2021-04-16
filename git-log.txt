@@ -1,0 +1,71 @@
+commit 78a3494edbb07fad5b475705e41a1a960877e0b2
+Author: Lufuno <ltshishivhiri@gmail.com>
+Date:   Wed Apr 14 20:10:19 2021 +0200
+
+    deletion of redundant code
+
+commit f52ebc206bd1fe72c845a31112061f871ec3754a
+Author: Lufuno <ltshishivhiri@gmail.com>
+Date:   Wed Apr 14 19:09:53 2021 +0200
+
+    working chat room
+
+commit bef92fb34b5ef99e302780181c642feec6a84ab2
+Author: Lufuno <ltshishivhiri@gmail.com>
+Date:   Wed Apr 14 05:57:31 2021 +0200
+
+    working send button
+
+commit b488a1820ba6ccf857d555f3fc469e0d6a40bace
+Author: Lufuno <ltshishivhiri@gmail.com>
+Date:   Tue Apr 13 22:09:18 2021 +0200
+
+    gui can recieve message from server
+
+commit b76ae4dab81f580060c39f8fe1e84a29043176e3
+Author: Lufuno <ltshishivhiri@gmail.com>
+Date:   Tue Apr 13 21:05:07 2021 +0200
+
+    not yet functional gui
+
+commit 05c6abc3fbddd7a0448cece19998e9a74480b045
+Author: Lufuno <ltshishivhiri@gmail.com>
+Date:   Tue Apr 13 18:37:59 2021 +0200
+
+    removed static from client
+
+commit 4ee15f580376afeb601f1eb0f17bcadc7d005581
+Author: Lufuno <ltshishivhiri@gmail.com>
+Date:   Tue Apr 13 18:19:26 2021 +0200
+
+    client to client communication
+
+commit 88acf6398696b9693da61cf274858235339a7b61
+Author: Lufuno <ltshishivhiri@gmail.com>
+Date:   Mon Apr 12 22:09:42 2021 +0200
+
+    getting list of  users online
+
+commit 45c1923fb673365f994eea5dc1e30fbdfb09d7de
+Author: Lufuno <ltshishivhiri@gmail.com>
+Date:   Mon Apr 12 19:46:54 2021 +0200
+
+    command addition
+
+commit 1ab91795899e5f1b9e171fa337bbf9463788f011
+Author: Lufuno <ltshishivhiri@gmail.com>
+Date:   Mon Apr 12 09:26:32 2021 +0200
+
+    client with threading commented out
+
+commit b12969104a08615447e29abd8230b5ec0cf12bb5
+Author: Lufuno <ltshishivhiri@gmail.com>
+Date:   Sun Apr 11 13:54:05 2021 +0200
+
+    small error fixes
+
+commit 7a462f9296342c273c4f4211a41c72a647403c99
+Author: Gopal <gopalreekoye@gmail.com>
+Date:   Sat Apr 10 21:10:28 2021 +0200
+
+    initial commit
